@@ -1,9 +1,9 @@
 # TWM(Titans War Macro)
-Script macros para mobile game em todos os servidores.
+Scripts macros para titanswar.net em todos os servidores.
 
 **Necessário level 16+ e 50 pontos de treinamento para entrar em algumas batalhas**
 
-***Recomendada para qualquer Android e Iphone***
+***Recomendado para qualquer Android e Iphone***
 
 >1 - No Android abra o app UserLAnd(https://f-droid.org/repo/tech.ula_2927098.apk), instale o Alpine com SSH e entre com a senha que foi criada.
 >  - No Iphone abra o app iSH(https://ish.app/).
