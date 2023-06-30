@@ -69,9 +69,9 @@ Modo de prioridade coliseu no Android(UserLAnd) e Iphone(iSH):
 ./twm/play.sh -cl
 ```
 
-* Para interromper `Ctrl c` ou force a parada do App Termux.
+* Para interromper `Ctrl c` ou force a parada dos Apps.
 
-* Para desinstalar scripts em qualquer sistema:
+* Para desinstalar scripts em ambos sistemas:
 
 ```bash
 rm -rf $HOME/twm
