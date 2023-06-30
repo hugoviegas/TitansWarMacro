@@ -235,7 +235,7 @@ Modo de prioridade coliseu:
 
 *Faço atualizações e correções periódicas, caso queira manter os scripts atualizados em seu dispositivo reexecute as instruções acima a partir da segunda etapa.
 
-As atualizações são exibidas nesta página: https://github.com/sharesourcecode/twm/commits/master
+As atualizações são exibidas nesta página: [https://github.com/sharesourcecode/twm/commits/master](https://gitea.com/Ueliton/twm/commits/branch/master)
 
 Clique nelas para saber o que foi alterado.
 
