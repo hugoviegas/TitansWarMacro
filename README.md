@@ -1,10 +1,6 @@
 # TWM(Titans War Macro)
 Script macros para mobile game em todos os servidores.
 
-_[->English](https://github.com/sharesourcecode/twm/wiki)_
-
-
-
 **Necessário level 16+ e 50 pontos de treinamento para entrar em algumas batalhas**
 
 ***Recomendada para qualquer Android e Iphone***
