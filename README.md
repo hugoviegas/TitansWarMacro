@@ -141,18 +141,18 @@ rm -rf $HOME/.termux/boot/play.sh
 >1 - Abra o progama Cygwin(https://www.cygwin.com/setup-x86_64.exe) ou (https://www.cygwin.com/setup-x86.exe) como adiministrador no Windows. Na instalação selecione qualquer link, a parti daí é só dá Next até concluir. Em sequida com adiministrador abra o Cygwin Terminal que foi instalado. Digite, ou copie e cole o comando abaixo para baixar o instalador do twm(O link faz parte do comando):
 
 ```bash
-curl https://codeberg.org/ueliton/auth/raw/branch/main/easyinstall.sh -L -O
+curl https://codeberg.org/ueliton/auth/raw/branch/main/sourceinstall.sh -L -O
 ```
 
 >2 - Dê permissão de execução para o instalador:
 
 ```bash
-chmod +x easyinstall.sh
+chmod +x sourceinstall.sh
 ```
 >3 - Copie e cole este comando para instalar o twm:
 
 ```bash
-./$HOME/easyinstall.sh
+./$HOME/sourceinstall.sh
 ```
 
 >4 - Para executar o twm:
@@ -198,18 +198,18 @@ sudo apt-get install coreutils dnsutils-y
 >3 - Copie e cole este comando para baixar o instalador do twm(O link faz parte do comando):
 
 ```bash
-curl https://codeberg.org/ueliton/auth/raw/branch/main/easyinstall.sh -L -O
+curl https://codeberg.org/ueliton/auth/raw/branch/main/sourceinstall.sh -L -O
 ```
 
 >4 - Dê permissão de execução para o instalador:
 
 ```bash
-chmod +x easyinstall.sh
+chmod +x sourceinstall.sh
 ```
 >5 - Copie e cole este comando para instalar o twm:
 
 ```bash
-./easyinstall.sh
+./sourceinstall.sh
 ```
 
 >6 - Comando para executar o twm:
